@@ -1,0 +1,15 @@
+img {
+  width: 25%;
+}
+.turtles {
+  display: none;
+}
+.koalas {
+  display: none;
+}
+.penguins {
+  display: none;
+}
+h1 {
+  text-align: center;
+}
